@@ -1,6 +1,6 @@
 print("=======================================================================")
 
-name = input("Enter Name: ")
+name = input("Enter Name:  ")
 class_y = input("Enter Year: ")
 class_s = input("Enter Semester: ")
 
